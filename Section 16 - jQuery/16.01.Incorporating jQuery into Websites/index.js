@@ -10,4 +10,8 @@
 //
 // $("button").text("<em>Hey</em>");
 
-$("a").attr("href", "https://www.yahoo.com");
+// $("a").attr("href", "https://www.yahoo.com");
+
+$(document).keypress(function(e) {
+    $("h1").text(event.key);
+});
