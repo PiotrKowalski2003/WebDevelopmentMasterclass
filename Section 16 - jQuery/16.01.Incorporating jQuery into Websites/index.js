@@ -6,6 +6,8 @@
 //
 // $("button");
 
-$("h1").text("Bye");
+// $("h1").text("Bye");
+//
+// $("button").text("<em>Hey</em>");
 
-$("button").text("<em>Hey</em>");
+$("a").attr("href", "https://www.yahoo.com");
