@@ -1,5 +1,5 @@
 {
-  "name": "Web Development",
+  "name": "web-development",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,21 @@
   },
   "private": true,
   "dependencies": {
+    "inquirer": "^14.2.3",
+    "qr-image": "^3.2.0",
     "sillyname": "^0.1.0",
     "superheroes": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiotrKowalski2003/WebDevelopmentMasterclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiotrKowalski2003/WebDevelopmentMasterclass/issues"
+  },
+  "homepage": "https://github.com/PiotrKowalski2003/WebDevelopmentMasterclass#readme"
 }
